@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デモーニッシュ",
+  "base_artist": "ツユ",
+  "createdAt": "2026-03-14T14:51:39.730306Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デモーニッシュ",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_デモーニッシュ_ツユ.txt"
+    }
+  ]
+}
